@@ -117,7 +117,7 @@
             "name": "飘零资源",
             "detail": "https://p2100.net"
         },
-      api_1": {
+        "api_1": {
             "name": "TV-1080资源",
             "api": "https://api.1080zyku.com/inc/api_mac10.php",
             "detail": "https://api.1080zyku.com"
